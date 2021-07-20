@@ -1,0 +1,210 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1,
+    "total": 3
+  },
+  "1 debug pnpm:package-manifest": {
+    "initial": {
+      "name": "@dev-demands/web",
+      "version": "0.1.0",
+      "private": true,
+      "dependencies": {
+        "@testing-library/jest-dom": "^5.11.4",
+        "@testing-library/react": "^11.1.0",
+        "@testing-library/user-event": "^12.1.10",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "react-scripts": "4.0.3",
+        "web-vitals": "^1.0.1"
+      },
+      "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+      },
+      "eslintConfig": {
+        "extends": [
+          "react-app",
+          "react-app/jest"
+        ]
+      },
+      "browserslist": {
+        "production": [
+          ">0.2%",
+          "not dead",
+          "not op_mini all"
+        ],
+        "development": [
+          "last 1 chrome version",
+          "last 1 firefox version",
+          "last 1 safari version"
+        ]
+      }
+    },
+    "prefix": "/Users/mateusmelo/Desktop/graphQL-aula/packages/web"
+  },
+  "2 debug pnpm:context": {
+    "currentLockfileExists": true,
+    "storeDir": "/Users/mateusmelo/.pnpm-store/v3",
+    "virtualStoreDir": "/Users/mateusmelo/Desktop/graphQL-aula/packages/web/node_modules/.pnpm"
+  },
+  "3 debug pnpm:stage": {
+    "prefix": "/Users/mateusmelo/Desktop/graphQL-aula/packages/web",
+    "stage": "resolution_started"
+  },
+  "4 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/@testing-library/user-event/12.8.3",
+    "wanted": {
+      "dependentId": ".",
+      "name": "@testing-library/user-event",
+      "rawSpec": "^12.1.10"
+    }
+  },
+  "5 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/@testing-library/react/11.2.7",
+    "wanted": {
+      "dependentId": ".",
+      "name": "@testing-library/react",
+      "rawSpec": "^11.1.0"
+    }
+  },
+  "6 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/@testing-library/jest-dom/5.14.1",
+    "wanted": {
+      "dependentId": ".",
+      "name": "@testing-library/jest-dom",
+      "rawSpec": "^5.11.4"
+    }
+  },
+  "7 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/react/17.0.2",
+    "wanted": {
+      "dependentId": ".",
+      "name": "react",
+      "rawSpec": "^17.0.2"
+    }
+  },
+  "8 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/react-scripts/4.0.3",
+    "wanted": {
+      "dependentId": ".",
+      "name": "react-scripts",
+      "rawSpec": "4.0.3"
+    }
+  },
+  "9 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/react-dom/17.0.2",
+    "wanted": {
+      "dependentId": ".",
+      "name": "react-dom",
+      "rawSpec": "^17.0.2"
+    }
+  },
+  "10 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/web-vitals/1.1.2",
+    "wanted": {
+      "dependentId": ".",
+      "name": "web-vitals",
+      "rawSpec": "^1.0.1"
+    }
+  },
+  "11 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/@testing-library/user-event/12.8.3",
+    "requester": "/Users/mateusmelo/Desktop/graphQL-aula/packages/web",
+    "status": "resolved"
+  },
+  "12 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/@testing-library/user-event/12.8.3",
+    "requester": "/Users/mateusmelo/Desktop/graphQL-aula/packages/web",
+    "status": "found_in_store"
+  },
+  "13 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/@testing-library/jest-dom/5.14.1",
+    "requester": "/Users/mateusmelo/Desktop/graphQL-aula/packages/web",
+    "status": "resolved"
+  },
+  "14 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/@testing-library/jest-dom/5.14.1",
+    "requester": "/Users/mateusmelo/Desktop/graphQL-aula/packages/web",
+    "status": "found_in_store"
+  },
+  "15 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/react/17.0.2",
+    "requester": "/Users/mateusmelo/Desktop/graphQL-aula/packages/web",
+    "status": "resolved"
+  },
+  "16 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/react/17.0.2",
+    "requester": "/Users/mateusmelo/Desktop/graphQL-aula/packages/web",
+    "status": "found_in_store"
+  },
+  "17 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/react-scripts/4.0.3",
+    "requester": "/Users/mateusmelo/Desktop/graphQL-aula/packages/web",
+    "status": "resolved"
+  },
+  "18 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/react-scripts/4.0.3",
+    "requester": "/Users/mateusmelo/Desktop/graphQL-aula/packages/web",
+    "status": "found_in_store"
+  },
+  "19 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/react-dom/17.0.2",
+    "requester": "/Users/mateusmelo/Desktop/graphQL-aula/packages/web",
+    "status": "resolved"
+  },
+  "20 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/react-dom/17.0.2",
+    "requester": "/Users/mateusmelo/Desktop/graphQL-aula/packages/web",
+    "status": "found_in_store"
+  },
+  "21 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/@testing-library/react/11.2.7",
+    "requester": "/Users/mateusmelo/Desktop/graphQL-aula/packages/web",
+    "status": "resolved"
+  },
+  "22 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/@testing-library/react/11.2.7",
+    "requester": "/Users/mateusmelo/Desktop/graphQL-aula/packages/web",
+    "status": "found_in_store"
+  },
+  "23 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/web-vitals/1.1.2",
+    "requester": "/Users/mateusmelo/Desktop/graphQL-aula/packages/web",
+    "status": "resolved"
+  },
+  "24 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/web-vitals/1.1.2",
+    "requester": "/Users/mateusmelo/Desktop/graphQL-aula/packages/web",
+    "status": "found_in_store"
+  },
+  "25 info pnpm": {
+    "err": {
+      "name": "Error",
+      "message": "GET https://registry.npmjs.org/react-route-dom: Not Found - 404",
+      "code": "ERR_PNPM_FETCH_404",
+      "stack": "Error: GET https://registry.npmjs.org/react-route-dom: Not Found - 404\n    at RetryOperation._fn (/usr/local/lib/node_modules/pnpm/dist/pnpm.cjs:79562:18)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)"
+    }
+  },
+  "26 error pnpm": {
+    "code": "ERR_PNPM_FETCH_404",
+    "hint": "react-route-dom is not in the npm registry, or you have no permission to fetch it.\n\nNo authorization header was set for the request.",
+    "request": {
+      "url": "https://registry.npmjs.org/react-route-dom"
+    },
+    "response": {
+      "size": 0,
+      "timeout": 60000
+    },
+    "pkgName": "react-route-dom",
+    "pkgsStack": [],
+    "prefix": "/Users/mateusmelo/Desktop/graphQL-aula/packages/web",
+    "err": {
+      "name": "Error",
+      "message": "GET https://registry.npmjs.org/react-route-dom: Not Found - 404",
+      "code": "ERR_PNPM_FETCH_404",
+      "stack": "Error: GET https://registry.npmjs.org/react-route-dom: Not Found - 404\n    at RetryOperation._fn (/usr/local/lib/node_modules/pnpm/dist/pnpm.cjs:79562:18)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)"
+    }
+  }
+}
